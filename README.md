@@ -1,3 +1,8 @@
-# Project Title
+# Final Project (Barrett Edwards and Molly Nelson) 
 
-Check the project requirements for what should go into this file.
+#Load Detention Statistics FY2019 
+install.packages("readxl")
+library(readxl)            
+
+FY2019_Data <- 
+
